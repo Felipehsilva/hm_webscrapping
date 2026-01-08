@@ -14,7 +14,7 @@
 * [Data Engineering Steps](#-data-engineering-steps)
 * [Key Insights](#-key-insights)
 * [How to Run](#-how-to-run)
-* [Author](#-author)
+
 
 ---
 
